@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_8eaaf4e39928a240cff0aa95560672f7b5c787a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_8eaaf4e39928a240cff0aa95560672f7b5c787a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_65647c8727d7b6278d4a1d88317e3c854d25123c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_65647c8727d7b6278d4a1d88317e3c854d25123c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3138fe3057e1404ffd6e8f8d534023b21b0da2a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ec7b5cefcbda6558cfb6fbc26c3d49aa17d53b62/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_ecf19fe48e83cc9c88f2bb765d25681bcb9fc70f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_7b50c7aa3992ef644f6bb84f484364e4ed8371f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3138fe3057e1404ffd6e8f8d534023b21b0da2a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_ecf19fe48e83cc9c88f2bb765d25681bcb9fc70f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_7b50c7aa3992ef644f6bb84f484364e4ed8371f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ec7b5cefcbda6558cfb6fbc26c3d49aa17d53b62.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_388b83b621648fd34e258c2a1bc55e3fdfd4d291/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_7be6c3848e66c8cd7f769ec471980742dadb11b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13f1d84f9d175edc69d5dc99186bdd11f75968ae">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b96f65845b3ed11577069d5c562335c7d34a6a6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a377f7ddb35e2624676c86a4ab7e744c140fd931">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e642ff17582a0c2aab55e0291626685dabbdf1a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_f0c4755b8d7d852df757cb76056539e6bae2cf4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_f0c4755b8d7d852df757cb76056539e6bae2cf4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f34a66a871bec2dac609a2221b1efac05aefd108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_9576918380a4d9d55a95a5bb7e69a5acdb34b7a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_7be6c3848e66c8cd7f769ec471980742dadb11b0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2b688d6589a63d9b2b0c2f6f881d5570d30d2754/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_9576918380a4d9d55a95a5bb7e69a5acdb34b7a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_f34a66a871bec2dac609a2221b1efac05aefd108/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2b688d6589a63d9b2b0c2f6f881d5570d30d2754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_251e30d7c83f64574ecc4294cf5d5d61baa529a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_9cb8e373f3634c8df87fbda3bea536d7ca85893c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_aa9154bf21cea4b1b08222f6a1510d885641cdbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_388b83b621648fd34e258c2a1bc55e3fdfd4d291.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9cb8e373f3634c8df87fbda3bea536d7ca85893c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_aa9154bf21cea4b1b08222f6a1510d885641cdbe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/b4b51d1925cdfda98fd861230c1ecb5855500129/baseLibrary-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.3_3e807b224e7d4ed1c56f154ce2331eb905bd7d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_6eaaf31016554b643a790dd5beda1d473bf969e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/b4b51d1925cdfda98fd861230c1ecb5855500129/baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/baseLibrary-2.2.3_3e807b224e7d4ed1c56f154ce2331eb905bd7d6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_6eaaf31016554b643a790dd5beda1d473bf969e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_5ea52b86df6054e861aa2cb93196688da0c54b46.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_bb231850d2b11b73a87d35d613633dfee1502771/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_5ea52b86df6054e861aa2cb93196688da0c54b46/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_bb231850d2b11b73a87d35d613633dfee1502771.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_251e30d7c83f64574ecc4294cf5d5d61baa529a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_d13a8d2fa407475de5fbaab76b7a5f3bcfec234f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Shelby/Desktop/testing_mancal/Mancal_App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_d13a8d2fa407475de5fbaab76b7a5f3bcfec234f/classes.dex" />
+    </item>
+
+</items>
