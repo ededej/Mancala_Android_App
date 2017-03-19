@@ -190,18 +190,33 @@
                 android:onClick="movePitSixPlayerTwo"
                 android:layout_alignLeft="@+id/buttonPit11" android:layout_alignStart="@+id/buttonPit11"
                 android:layout_above="@+id/buttonPit11"/>
+        <TextView
+                android:text="Winner "
+                android:visibility="invisible"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:layout_centerVertical="true"
+                android:layout_marginLeft="42dp" android:layout_marginStart="42dp" android:id="@+id/winnerText"
+                android:layout_alignRight="@+id/buttonPit23" android:layout_alignEnd="@+id/buttonPit23"
+                android:textAllCaps="true" android:foregroundGravity="center_horizontal"
+                android:gravity="clip_vertical" android:textStyle="bold" android:layout_alignParentTop="true"
+                android:textColor="@android:color/holo_green_dark"/>
     </RelativeLayout>
 
     <TextView
+            android:id="@+id/playerTwoName"
             android:text="Player 2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="88dp" android:layout_marginStart="88dp" android:id="@+id/playerTwoName"
+            android:layout_marginLeft="88dp"
+            android:layout_marginStart="88dp"
             android:layout_alignParentTop="true"/>
     <TextView
+            android:id="@+id/playerOneName"
             android:text="Player 1"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" android:layout_alignParentBottom="true"
-            android:layout_alignRight="@+id/playerTwoName" android:layout_alignEnd="@+id/playerTwoName"
-            android:id="@+id/playerOneName"/>
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="88dp"
+            android:layout_marginStart="88dp"
+            android:layout_below="@+id/relativeLayout"
+            />
 </RelativeLayout>

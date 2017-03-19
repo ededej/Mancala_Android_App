@@ -24,10 +24,10 @@ public class MainActivity extends AppCompatActivity {
         t.setText("Rules: \n"+
                             "1. Player 1 starts the game first\n" +
                             "2. Game is played in landscape mode view.\n" +
-                            "3. The kalah on the right of the player position is the players Kalah(house) of stones\n" +
+                            "3. The Kalah on the right of the player position is the players Kalah(house) of stones\n" +
                             "4. Each Pit starts with 3 stones on it. \n" +
-                            "5. If the move ends on one of Kalaha's the player has again the turn\n"+
-                            "6. If the move ends on empyt Pit the player gets the pits of the oppisite side into his Kalah");
+                            "5. If the move ends on one of Kalah's the player has again the turn\n"+
+                            "6. If the move ends on empty Pit the player gets the pits of the opposite side into his Kalah");
         playerOneName = (EditText) findViewById(R.id.playerOneInput);
         playertwoName = (EditText) findViewById(R.id.playerTwoInput);
 

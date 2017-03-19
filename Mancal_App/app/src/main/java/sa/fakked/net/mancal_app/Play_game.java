@@ -15,6 +15,7 @@ public class Play_game extends AppCompatActivity {
     private String playerSecondName;
     private TextView playerOneSetName;
     private TextView playerTwoSetName;
+    private TextView winner;
     Button playerOnePitOne, playerOnePitTwo,playerOnePitThree,playerOnePitFour,playerOnePitFive,playerOnePitSix;
     Button playerTwoPitone,playerTwoPitTwo,playerTwoPitThree,playerTwoPitFour,playerTwoPitFive,playerTwoPitSix;
     Button kalahOne,kalahTwo;
@@ -46,7 +47,7 @@ public class Play_game extends AppCompatActivity {
         playerSecondName=intentMain.getStringExtra(MainActivity.PLAYERTWO);
         playerOneSetName= (TextView) findViewById(R.id.playerOneName);
         playerTwoSetName= (TextView) findViewById(R.id.playerTwoName);
-
+        winner=(TextView) findViewById(R.id.winnerText);
 
         if(!playerFirstName.isEmpty()){
             playerOneSetName.setText("Player 1 turn: "+playerFirstName);
@@ -229,14 +230,30 @@ public class Play_game extends AppCompatActivity {
             playerTwoSetName.setText("Player: "+playerSecondName + " finished the game with :"+two.getKalah().getStones());
             one.setTurn(false);
             two.setTurn(false);
+            displayWinner();
         }else if(two.allHousesEmpty()) {
             Toast.makeText(this, "Game is finished", Toast.LENGTH_LONG).show();
             playerOneSetName.setText("Player: "+playerFirstName + " finished the game with :"+one.getKalah().getStones());
             playerTwoSetName.setText("Player: "+playerSecondName + " finished the game with :"+two.getKalah().getStones());
             one.setTurn(false);
             two.setTurn(false);
+            displayWinner();
+
         }
     }
+
+    private void displayWinner() {
+        winner.setVisibility(View.VISIBLE);
+        if (one.getKalah().getStones() > two.getKalah().getStones()) {
+            winner.setText("Player " +playerFirstName + " won");
+        } else if (one.getKalah().getStones() < two.getKalah().getStones()) {
+            winner.setText("Player " +playerSecondName + " won");
+        }else{//tie
+            winner.setText("We have a tie between players. No winner.");
+        }
+        winner.bringToFront();
+    }
+
 
     ///////////////////////////
     public void movePitOnePlayerOne(View view) {
